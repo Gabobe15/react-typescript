@@ -1,0 +1,3 @@
+in order to make the link active we are going to use the use location so that we identify which path is in the URL
+and then we will just take the path name to add to the styling 
+*** const {pathname} = useLocation(); 

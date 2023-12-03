@@ -1,2 +1,7 @@
 create react app with typescript
 *** npx create-react-app pika-show-app --template typescript ***
+react router dom 
+*** npm i react-router-dom ***
+material UI
+*** npm install @mui/material @emotion/react @emotion/styled ***
+
